@@ -30,5 +30,5 @@ In conclusion, the comprehensive approach, which combines data analysis techniqu
 
 ## NOTE
 
-This project was undertaken as part of my work at Fraunhofer IPT. Due to a Non-Disclosure Agreement, I am unable to share specific details, data, or code related to this project. The repository provides only general information about my involvement and the skills utilized during its development.
+This project was undertaken as part of my work at Fraunhofer IPT, Aachen (DE). Due to a Non-Disclosure Agreement, I am unable to share specific details, data, or code related to this project. The repository provides only general information about my involvement and the skills utilized during its development.
 If you would like to know any more information than already mentioned in the repository, feel free to connect with me.
