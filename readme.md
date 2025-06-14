@@ -2,6 +2,8 @@
 
 This repository contains the description of a research project aimed at improving quality assessment in production processes. The study focused on analyzing and classifying bolting cases using advanced data processing techniques and machine learning methods. The project integrates concepts from Auto Encoders, unsupervised learning, time series analysis, and clustering algorithms to enhance production quality.
 
+![alt text](image.png)
+
 ## Project Description
 
 Bolted connections play a pivotal role in the production industry, uniting various parts and contributing to joint integrity and overall safety. While torque value remains one of the primary metrics for assessing the effectiveness of a bolted connection, it is equally crucial to scrutinize the evolving torque patterns over time. This study examines torque patterns during the bolt-tightening process, aiming to categorize them and identify trends that enhance successful bolting.
